@@ -1,0 +1,19 @@
+INFO  | 2022-09-30 19:01:43 | [main] JavaGenerics.App (App.java:13) - Hello to Genrics Program!
+INFO  | 2022-09-30 19:01:43 | [main] JavaGenerics.App (App.java:14) - Give 3 inputs:
+INFO  | 2022-09-30 19:02:20 | [main] JavaGenerics.App (App.java:13) - Hello to Genrics Program!
+INFO  | 2022-09-30 19:02:20 | [main] JavaGenerics.App (App.java:14) - Give 3 inputs:
+INFO  | 2022-09-30 19:02:40 | [main] JavaGenerics.MaxInteger (MaxInteger.java:24) - Max Number is not present at Position 2! 6
+INFO  | 2022-09-30 19:03:08 | [main] JavaGenerics.App (App.java:13) - Hello to Genrics Program!
+INFO  | 2022-09-30 19:03:08 | [main] JavaGenerics.App (App.java:14) - Give 3 inputs:
+INFO  | 2022-09-30 19:03:21 | [main] JavaGenerics.MaxInteger (MaxInteger.java:22) - Max Number is at Position 2! 6
+INFO  | 2022-09-30 19:03:35 | [main] JavaGenerics.App (App.java:13) - Hello to Genrics Program!
+INFO  | 2022-09-30 19:03:35 | [main] JavaGenerics.App (App.java:14) - Give 3 inputs:
+INFO  | 2022-09-30 19:03:47 | [main] JavaGenerics.App (App.java:13) - Hello to Genrics Program!
+INFO  | 2022-09-30 19:03:47 | [main] JavaGenerics.App (App.java:14) - Give 3 inputs:
+INFO  | 2022-09-30 19:04:23 | [main] JavaGenerics.App (App.java:13) - Hello to Genrics Program!
+INFO  | 2022-09-30 19:04:23 | [main] JavaGenerics.App (App.java:14) - Give 3 inputs:
+INFO  | 2022-09-30 19:04:33 | [main] JavaGenerics.App (App.java:13) - Hello to Genrics Program!
+INFO  | 2022-09-30 19:04:33 | [main] JavaGenerics.App (App.java:14) - Give 3 inputs:
+INFO  | 2022-09-30 22:16:22 | [main] JavaGenerics.App (App.java:16) - Hello to Genrics Program!
+INFO  | 2022-09-30 22:16:22 | [main] JavaGenerics.App (App.java:17) - Give 3 inputs:
+INFO  | 2022-09-30 22:16:33 | [main] JavaGenerics.MaxInteger (MaxInteger.java:24) - Max Number is not present at Position 2! 6
