@@ -17,3 +17,11 @@ INFO  | 2022-09-30 19:04:33 | [main] JavaGenerics.App (App.java:14) - Give 3 inp
 INFO  | 2022-09-30 22:16:22 | [main] JavaGenerics.App (App.java:16) - Hello to Genrics Program!
 INFO  | 2022-09-30 22:16:22 | [main] JavaGenerics.App (App.java:17) - Give 3 inputs:
 INFO  | 2022-09-30 22:16:33 | [main] JavaGenerics.MaxInteger (MaxInteger.java:24) - Max Number is not present at Position 2! 6
+INFO  | 2022-09-30 22:30:58 | [main] JavaGenerics.App (App.java:13) - Hello to Genrics Program!
+INFO  | 2022-09-30 22:30:58 | [main] JavaGenerics.App (App.java:14) - Give 3 inputs of integer:
+INFO  | 2022-09-30 22:31:37 | [main] JavaGenerics.MaxInteger (MaxInteger.java:24) - Max Number is not present at Position 2! 6
+INFO  | 2022-09-30 22:31:37 | [main] JavaGenerics.GenericMax (GenericMax.java:35) - Max is not present at Position 2! 6
+INFO  | 2022-09-30 22:31:37 | [main] JavaGenerics.App (App.java:27) - Give 3 inputs of strings:
+INFO  | 2022-10-12 17:43:48 | [main] JavaGenerics.App (App.java:13) - Hello to Genrics Program!
+INFO  | 2022-10-12 17:43:48 | [main] JavaGenerics.App (App.java:14) - Give 3 inputs:
+INFO  | 2022-10-12 17:44:03 | [main] JavaGenerics.MaxInteger (MaxInteger.java:24) - Max Number is not present at Position 2! 9
